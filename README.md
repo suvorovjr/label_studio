@@ -34,7 +34,7 @@
 
 - Последний шаг - запуск Label Studio командой `label-studio`
 
-![https://habrastorage.org/r/w1560/getpro/habr/upload_files/7f7/129/c13/7f7129c13233c16552b108334ab94049.png]
+![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/7f7/129/c13/7f7129c13233c16552b108334ab94049.png)
 
 - Если вы всё сделали без ошибок, то откроется страница Label Studio на вашем локальном сервере. Ниже видео этого процесса для большей наглядности:
 
