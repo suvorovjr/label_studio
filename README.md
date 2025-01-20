@@ -15,10 +15,10 @@
 - Открываем командную строку и пишем `cd C:\Users\Rustam\Desktop\ваш полный путь`
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/2a8/c63/d53/2a8c63d53ddd9f1b416a453edb4967a5.png)
 
-- В следующем шаге мы создаем виртуальное окружение с помощью команды `python -m venv venv`. Если команда `python -m venv venv` не сработала попробуйте ввести `python3 -m venv venv`.
+- В следующем шаге мы создаем виртуальное окружение с помощью команды `python -m venv env`. Если команда `python -m venv env` не сработала попробуйте ввести `python3 -m venv env`.
 ![](https://habrastorage.org/getpro/habr/upload_files/a16/0ac/169/a160ac169124ba3784b900e5f9a96aa8.png)
 
--  В этом шаге мы активируем виртуальное окружение командой `venv\Scripts\activate.bat`. Если слева от юзера появилось (venv), то окружение активировано.
+-  В этом шаге мы активируем виртуальное окружение командой `env\Scripts\activate.bat`. Если слева от юзера появилось (env), то окружение активировано.
 ![](https://habrastorage.org/getpro/habr/upload_files/dc9/1ab/800/dc91ab80086e85b97ae42100bbb55133.png)
 
 - В следующем шаге мы скачиваем Label Studio командой `pip install -U label-studio`.
